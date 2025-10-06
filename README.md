@@ -2,14 +2,6 @@
 
 A modular command-line AI assistant that integrates with OpenAI's GPT-4o-mini model, featuring an extensible tool system for function calling.
 
-## Features
-
-- 🤖 **AI-Powered Conversations** - Chat with GPT-4o-mini
-- 🧮 **Calculator Tool** - Mathematical expression evaluation
-- 🌤️ **Weather Tool** - Location-based weather information
-- 🔍 **Web Search Tool** - Intelligent search results
-- 🎨 **Beautiful CLI** - Rich library for stunning terminal output
-- 🔧 **Extensible Architecture** - Easy to add new tools
 
 ## Installation
 
